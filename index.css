@@ -1,0 +1,154 @@
+
+
+.container-fluid {
+
+    background-color: #9453A6;
+    color: #F2F2F2;
+    font-family: Roboto;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.nav-link {
+    color: #F2F2F2;
+}
+
+body {
+    background-color: #fdf8e5;
+}
+
+.carousel-item {
+    background-color: #fdf8e5;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.carousel-p {
+    font-family: Roboto;
+}
+
+.h5 {
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+.new {
+    display: block;
+    width: 100;
+}
+
+article {
+    margin: 20px;
+}
+
+article h2 {
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+.p-about {
+    font-size: 25px;
+    font-family: Roboto;
+    text-align: justify;
+}
+
+.container {
+    margin: 50px;
+    padding-top: 50px;
+
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 42rem;
+    text-align: center;
+    border-radius: 2rem;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+.card1 {
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    height: 180px;
+}
+.modal-content{
+    height: 30rem;
+    background-color: #9453A6;
+    font-size: 15px;
+    color: #f2f2f2;
+    font-family: roboto;
+    text-align: center;
+}
+.modal-title{
+    font-family: henny penny;
+    text-align: center;
+}
+#imgcard{
+    background-color: #f2f2f2;
+    text-align: center;
+    font-family: henny penny;
+    color: #9453A6; 
+}
+
+.card-btn {
+    background-color: #9453A6;
+    border-radius: 0.5rem;
+    color: #F2F2F2;
+    font-family: Roboto;
+    padding: 4px;
+}
+
+.footer_img {
+    border-top: 3px solid #F2F2F2;
+    border-bottom: 3px solid #F2F2F2;
+    width: 100%;
+    height: 600px;
+    background-color: #F2F2F2;
+}
+
+.copy {
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Roboto;
+    position: relative;
+}
+
+
+.column {
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+    width: 22%;
+    padding: 5px;
+}
+
+
+#section,
+#sec,
+.section {
+    background-color: #f2f2f2;
+}
+
+.h2 {
+    font-family: henny penny;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.p-about{
+    text-align: justify;
+    font-size: 20px;
+    font-family: roboto;
+}
+
+#yellow {
+    background-color: #f2f2f2;
+}

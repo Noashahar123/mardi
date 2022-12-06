@@ -1,0 +1,44 @@
+body {
+    background-image: url(img/mardigras042.jpg);
+}
+
+.container-fluid {
+    background-color: #9453A6;
+    color: #F2F2F2;
+    font-family: Roboto;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.aboutlatoya,
+.aboutMordi {
+    width: 70%;
+    background-color: #f2f2f2d0;
+    color: #9453A6;
+    font-size: 15pt;
+    font-family: Roboto;
+    text-align: justify;
+    line-height: 1.5;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.latoya,
+.Mordi {
+    width: 200px;
+
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    border-radius: 45rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.h2,
+.platoya {
+    font-family: pattaya;
+}
